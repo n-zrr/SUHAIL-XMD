@@ -1,0 +1,16 @@
+{
+  "themeName": "Suhail WhatsApp Bot",
+  "welcomeMessage": "👋 Hello! I'm Suhail Bot. How can I help you today?",
+  "commands": {
+    "help": "Type *help* to see what I can do.",
+    "menu": "Here are your options:\n1. Check balance\n2. Talk to support\n3. Latest news"
+  },
+  "responses": {
+    "default": "Sorry, I didn't understand that. Type *help* to see available commands.",
+    "farewell": "Goodbye! Have a great day! 👋"
+  },
+  "buttons": {
+    "mainMenu": ["Check Balance", "Talk to Support", "News"],
+    "confirm": ["Yes", "No"]
+  }
+}
